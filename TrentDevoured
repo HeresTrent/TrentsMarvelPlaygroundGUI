@@ -90,26 +90,26 @@ end)
 
 
 
-local Tab = Window:NewTab("Ghostface")
+local Tab = Window:NewTab("Eleven")
 local Section = Tab:NewSection("No cooldowns")
 
 
 
-Section:NewButton("Call spam", "No cooldown", function()
+Section:NewButton("Arm Break spam", "No cooldown", function()
 loadstring(game:HttpGet("https://pastebin.com/raw/Xxack2xY"))()
 end)
 
 
 
-Section:NewButton("Change to Ghostface", "No cooldown", function()
-loadstring(game:HttpGet("https://pastebin.com/raw/1Vk5vSMt"))()
+Section:NewButton("Change to Eleven", "No cooldown", function()
+https://raw.githubusercontent.com/HeresTrent/ElevenChange/main/ChangetoJaneEleven
 end)
 
 
 
 
 
-Section:NewButton("Decoy Spam", "No cooldown", function()
+Section:NewButton("Burst wave spam", "No cooldown", function()
 loadstring(game:HttpGet("https://pastebin.com/raw/nPuh6h1E"))()
 end)
 
