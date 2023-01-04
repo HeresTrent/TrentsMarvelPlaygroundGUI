@@ -136,9 +136,9 @@ local Section = Tab:NewSection("Remove Name")
 
 Section:NewToggle("Remove Name", "Removes your name", function(state)
     if state then
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/HeresTrent/Name-remover/main/remove%20name'),true))()
+https://raw.githubusercontent.com/HeresTrent/HideName/main/HideName%20--credits%2C%20nut
     else
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/HeresTrent/Name-remover/main/remove%20name'),true))()
+https://raw.githubusercontent.com/HeresTrent/HideName/main/HideName%20--credits%2C%20nut
     end
 end)
 
