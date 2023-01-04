@@ -243,7 +243,7 @@ local Section = Tab:NewSection("Ghostface (being worked on)")
 
 game.StarterGui:SetCore("SendNotification", { 
     Title = "Trents Xploit Hub ❤";
-    Text = "Marvellous Playground    Now Active, Enjoy! ❤";
+    Text = "Marvellous Playground    Now Active, Enjoy! ❤ --Credits Trent and flopera";
     Icon = "rbxthumb://type=Asset&id=12040122061&w=150&h=150";
     Duration = "2";
     Button1 = "Close";
